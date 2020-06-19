@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to magaoedu's documentation!
-====================================
+码高教育-在线技术文档
+=======================  
 
 .. toctree::
    :maxdepth: 2
@@ -12,14 +12,6 @@ Welcome to magaoedu's documentation!
    :numbered:
    
    source.rst
-
-.. toctree::
-   :maxdepth: 2
-   :caption: 天眼平台:
-   :numbered:
-      
-   hello.rst
-  
 
 * :ref:`genindex`
 * :ref:`modindex`
