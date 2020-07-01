@@ -6,13 +6,15 @@
 码高教育-在线技术文档
 ============================  
 
+
+
 .. toctree::
    :maxdepth: 2
-   :caption: 问道平台:
+   :caption: 直播教室:
    :numbered:
-   
+ 
+   class.rst
    source.rst
-
 
 
 * :ref:`genindex`
