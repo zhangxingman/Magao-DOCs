@@ -22,7 +22,7 @@ source_suffix = ['.rst', '.md']
 
 # -- Project information -----------------------------------------------------
 
-project = 'magaoedu'
+project = '码高教育'
 copyright = '2020, zhangxingman'
 author = 'zhangxingman'
 
@@ -72,3 +72,4 @@ html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 html_static_path = ['_static']
 
 master_doc = 'index'
+
