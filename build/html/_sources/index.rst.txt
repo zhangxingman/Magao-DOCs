@@ -15,6 +15,7 @@
  
    class.rst
    source.rst
+   QA.rst
 
 
 * :ref:`genindex`
