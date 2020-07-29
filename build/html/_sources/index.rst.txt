@@ -16,7 +16,7 @@
    class.rst
    source.rst
    QA.rst
-
+   School.rst
 
 * :ref:`genindex`
 * :ref:`modindex`
